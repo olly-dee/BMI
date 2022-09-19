@@ -1,1 +1,1 @@
-Second project: Body Mass Index Calculator using input function using Vanilla JavaScript, CSS and HTML
+Second project: Body Mass Index Calculator using Input using Vanilla JavaScript, CSS and HTML
